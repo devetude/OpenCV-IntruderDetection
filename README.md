@@ -11,7 +11,8 @@ OpenCV를 이용한 침입자 탐지 및 침입자 얼굴 저장
 </p>
 
 #* 프로젝트를 시작하기 전에...
-본 프로젝트는 [OpenCV-FaceRecognizer](https://github.com/devetude/OpenCV-FaceRecognizer) 프로젝트의 연장선에 있습니다. 따라서 OpenCV-FaceRecognizer의 READEME.md를 먼저 읽어주세요.
+본 프로젝트는 [OpenCV-FaceRecognizer](https://github.com/devetude/OpenCV-FaceRecognizer) 프로젝트의 연장선에 있습니다.<br>
+따라서 OpenCV-FaceRecognizer의 READEME.md를 먼저 읽어주세요.
 
 #* 라이센스
 본 프로젝트는 Apache 2.0 License를 따릅니다. http://www.apache.org/licenses/LICENSE-2.0
