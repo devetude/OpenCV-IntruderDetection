@@ -4,10 +4,10 @@ OpenCV를 이용한 침입자 탐지 및 침입자 얼굴 저장
 다음과 같은 간단한 **침입자 탐지 및 침입자 얼굴 저장**을 **OpenCV**를 이용하여 만들어봅니다.
 
 <p align="center">
-  <img src="https://github.com/devetude/OpenCV-IntruderDetection/blob/master/images/play.gif?raw=true" width="400"/>
+  <img src="https://github.com/devetude/OpenCV-IntruderDetection/blob/master/images/play.gif?raw=true" width="500"/>
 </p>
 <p align="center">
-  <img src="https://github.com/devetude/OpenCV-IntruderDetection/blob/master/images/intruder_image_example.png?raw=true" width="400"/>
+  <img src="https://github.com/devetude/OpenCV-IntruderDetection/blob/master/images/intruder_image_example.png?raw=true" width="500"/>
 </p>
 
 #* 프로젝트를 시작하기 전에...
